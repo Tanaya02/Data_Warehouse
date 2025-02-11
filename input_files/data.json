@@ -1,0 +1,3 @@
+{
+    "tables": ["cinema", "customer", "theater", "screen", "ticket", "transactions", "cinema_theatre_rltn"]
+}

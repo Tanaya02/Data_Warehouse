@@ -1,0 +1,6 @@
+{
+    "tables": ["country", "city", "address", "staff", "store","customer", 
+    "category", "actor", "language", "film", "film_text", "film_category", "film_actor",
+     "inventory", "rental", "payment "]
+}
+
